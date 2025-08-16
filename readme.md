@@ -1,6 +1,5 @@
 # Drowsiness Detection OpenCV 😴 🚫 🚗
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 This code can detect your eyes and alert when the user is drowsy.
 
@@ -26,25 +25,11 @@ A computer vision system that can automatically detect driver drowsiness in a re
 
 Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye.
 
-It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
+It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generate.
 
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/assets/eye1.jpg">
-
-
-#### Relationship
-
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/assets/eye2.png">
-
-#### Summing up
-
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/assets/eye3.jpg">
 
 
 For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
-
-### Results 📊
-
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/drowsy.gif">
 
 
 ### Execution 🐉
@@ -54,18 +39,17 @@ To run the code, type `python Drowsiness_Detection.py`
 python Drowsiness_Detection.py
 ```
 
-###### Made with ❤️ and 🦙 by Akshay Bahadur
+###### Made By Divya KUmar
 
 ## 📌 Cite Us
 
 To cite this guide, use the below format:
 ```
 @article{Drowsiness_Detection,
-author = {Bahadur, Akshay},
-journal = {https://github.com/akshaybahadur21/Drowsiness_Detection},
+author = {Divya}
 month = {01},
-title = {{Drowsiness_Detection}},
-year = {2018}
+title = {{Drowsiness_Detection-master}},
+year = {2025}
 }
 ```
 
