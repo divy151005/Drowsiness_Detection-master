@@ -39,7 +39,7 @@ To run the code, type `python Drowsiness_Detection.py`
 python Drowsiness_Detection.py
 ```
 
-###### Made By Divya KUmar
+###### Made By Divya Kumar
 
 ## 📌 Cite Us
 
